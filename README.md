@@ -39,11 +39,19 @@ To get a copy of the project up and running on your local machine for developmen
 
 ## Running the Application
 
-- [npm start]
+- npm start
 
 ## Outputs
 
-![Instruction Page](https://github.com/user-attachments/assets/5973acd5-4211-454a-8913-d71291a63c83)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce89fbda-be54-4675-9250-9eb24596609d
+" alt="Instruction" width="250"/>
+<!--   <img src="image-url2" alt="Alt text 2" width="250"/>
+  <img src="image-url3" alt="Alt text 3" width="250"/> -->
+</p>
+
+<p align="center"><b>Figure 2:</b> Multiple images side by side</p>
+
 
 
 
