@@ -30,24 +30,24 @@ To get a copy of the project up and running on your local machine for developmen
 - Running on Android [npx react-native run-android]
 
 
-### Prerequisites
+## Prerequisites
 
-- [Node.js]
-- [React Native CLI]
-- [Expo Framework]
+- Node.js
+- React Native CLI
+- Expo Framework
 
 
-### Running the Application
+## Running the Application
 
 - [npm start]
 
-### Outputs
+## Outputs
 
 ![Instruction Page](https://github.com/user-attachments/assets/5973acd5-4211-454a-8913-d71291a63c83)
 
 
 
-### Contact
+## Contact
 
 For general inquiries or issues, contact our support team:
 
