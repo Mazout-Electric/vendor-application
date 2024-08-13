@@ -44,7 +44,8 @@ To get a copy of the project up and running on your local machine for developmen
 ## Outputs
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce89fbda-be54-4675-9250-9eb24596609d
+  <img src="![image](https://github.com/user-attachments/assets/4425d676-6f5e-4e25-8d34-4780a1a62810)
+
 " alt="Instruction" width="250"/>
 <!--   <img src="image-url2" alt="Alt text 2" width="250"/>
   <img src="image-url3" alt="Alt text 3" width="250"/> -->
