@@ -1,7 +1,4 @@
-To run the code:
-> npm run android
 
-## Permissions to access:
 
 
 
