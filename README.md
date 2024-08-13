@@ -48,7 +48,7 @@ To get a copy of the project up and running on your local machine for developmen
   <img src="image-url3" alt="Alt text 3" width="250"/> -->
 </p>
 
-<p align="center"><b>Figure 2:</b> Will be uploaded soon... </p>
+<p align="center"><b>Images:</b> Will be uploaded soon... </p>
 
 
 
