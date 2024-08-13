@@ -12,15 +12,15 @@
 
 ## Project Overview
 
-The Mazout Vendor Application is a React Native-based mobile application designed for OEM's. The application allows OEM's to manage inventory, process orders, and check the authenticity of products efficiently.
+The Mazout Vendor Application is a React Native-based mobile application designed for vendors. The application allows vendors to manage inventory, process orders, and check the authenticity of products efficiently.
 
 ## Features
 
-- **User Authentication:** Secure login and signup for vendors.
-- **Inventory Management:** Easy tracking and updating of available products.
-- **Order Processing:** Streamlined process for handling customer orders.
-- **Delivery Tracking:** Real-time updates on the status of deliveries.
-- **Notifications:** Alerts and notifications for new orders and updates.
+- **User Authentication:** Secure login and signup using UserID and password.
+- **Location Access:** The app accesses your location to help identify nearby devices.
+- **Bluetooth Connectivity:** Automatically scans for all nearby Bluetooth devices.
+- **Device Authentication:** Connects to Mazout devices and provides confirmation if the device is authenticated or not.
+- **User Experience:** Ensures seamless interaction by integrating essential security and connectivity features.
 
 ## Installation
 
