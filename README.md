@@ -7,6 +7,8 @@
 - [Installation](#installation)
 - [Prerequisites](#prerequisites)
 - [Running the Application](#running-the-application)
+- [Output](#output)
+- [License](#license)
 - [Contact](#contact)
 
 
