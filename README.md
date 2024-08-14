@@ -44,7 +44,7 @@ To get a copy of the project up and running on your local machine for developmen
 ## Outputs
 
 
-[Watch the video on YouTube](https://youtu.be/IgSfI1e9nuE?si=0yC8luZzVbZajql5)
+[![MazoutX1 onboarding and authentication process](https://drive.google.com/file/d/1Z1AYwAL5Hg0c6VdxtLf3EOTNOdLgRuwi/view?usp=sharing)](https://youtu.be/IgSfI1e9nuE?si=0yC8luZzVbZajql5)
 
 
 ## License
