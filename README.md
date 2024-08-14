@@ -44,7 +44,7 @@ To get a copy of the project up and running on your local machine for developmen
 ## Outputs
 
 
-[Watch the video on YouTube](https://www.youtube.com/watch?v=your_video_id)
+[Watch the video on YouTube](https://youtu.be/IgSfI1e9nuE?si=0yC8luZzVbZajql5)
 
 
 ## License
